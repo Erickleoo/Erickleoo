@@ -1,6 +1,5 @@
 ### Olá! eu sou o Erick Leonardo
 
-- 🔭 Hoje trabalho como Help Desk, porém sou um desenvolvedor Frond-End
 - 🌱 Estudando JavaScript, EC6, React...
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Sou um excelente cozinheiro
