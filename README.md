@@ -1,6 +1,6 @@
 ### Olá! eu sou o Erick Leonardo
 
-- 🌱 Estudando JavaScript, EC6, React...
+- 🌱 Estudando JavaScript EC6 e React...
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Sou um excelente cozinheiro
 
