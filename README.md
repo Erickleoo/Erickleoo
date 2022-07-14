@@ -28,12 +28,13 @@ function dev(name, age, work) {
   <img align="center" alt="erick-Bootstrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
   <img align="center" alt="erick-git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
 </div>
-</div>
+
 
 ### Studying in this moment:
 <div style="display: inline_block">
   <img align="center" alt="erick-Angular" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
   <img align="center" alt="erick-Typescript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+  <img align="right" alt="Erick-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </div>
  
 ### Erick Leonardo on social media:
