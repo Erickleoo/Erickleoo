@@ -1,4 +1,4 @@
-<h1>Hello 👋 I'm Erick Leonardo!</h1>
+<h1>Hello 😎 I'm Erick Leonardo!</h1>
 
 <pre>
 function dev(name, age, work) {
