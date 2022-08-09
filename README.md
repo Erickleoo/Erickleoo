@@ -34,7 +34,7 @@ function dev(name, age, work) {
 <div style="display: inline_block">
   <img align="center" alt="erick-Angular" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
   <img align="center" alt="erick-Typescript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-  <img align="right" alt="Erick-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5622AQHrcycZMzuNvA/feedshare-shrink_800/0/1659110621340?e=1663200000&v=beta&t=fijgipR2d2yZIJYqLwvaRZSgT4JIi804KagMLejD14k">
+  <img align="right" alt="Erick-pic" height="200" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5622AQHrcycZMzuNvA/feedshare-shrink_800/0/1659110621340?e=1663200000&v=beta&t=fijgipR2d2yZIJYqLwvaRZSgT4JIi804KagMLejD14k">
 </div>
  
 ### Erick Leonardo on social media:
