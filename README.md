@@ -6,7 +6,7 @@ function dev(name, age, work) {
         this.age = age;
         this.work = work;
       }
-      let erickLeonardo = new dev('Erick Leonardo', 26, 'Front-end developer and cook');
+      let erickLeonardo = new dev('Erick Leonardo', 26, 'Front-end developer');
       console.log(erickLeonardo);
 </pre>
 
