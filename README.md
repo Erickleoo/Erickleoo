@@ -27,6 +27,7 @@ function dev(name, age, work) {
   <img align="center" alt="erick-React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center" alt="erick-Bootstrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
   <img align="center" alt="erick-git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
+        <img align="center" alt="erick-Angular" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
 </div>
 
 
