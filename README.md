@@ -6,7 +6,7 @@ function dev(name, age, work) {
         this.age = age;
         this.work = work;
       }
-      let erickLeonardo = new dev('Erick Leonardo', 28, 'Front-end developer');
+      let erickLeonardo = new dev('Erick Leonardo', 28, 'Developer');
       console.log(erickLeonardo);
 </pre>
 
@@ -18,24 +18,133 @@ function dev(name, age, work) {
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erickleoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickleoo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<br><br>
+<p align="center"> 
+ Technologies
+</p>
+<br>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+<td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
+      <br>AWS
+    </td>
+     <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"width="40" height="40" alt="Elixir" />
+      <br>Elixir
+    </td> 
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <br>Github
+    </td>
+     <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg"width="40" height="40" alt="Bitbucket" />
+      <br>Bitbucket
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+      <br>Java
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <br>CSS
+    </td>
+<td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="40" height="40" alt="css" />
+      <br>SASS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="tailwind" />
+      <br>React Native
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/reducer/reducer-icon.svg"width="40" height="40" alt="Reducer" />
+      <br>Reducer
+    </td>
+ <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+  </tr>
 
-### Main skills:
-<div style="display: inline_block">
-  <img align="center" alt="erick-HTML5" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-  <img align="center" alt="erick-CSS3" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
-  <img align="center" alt="erick-Js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-  <img align="center" alt="erick-React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-  <img align="center" alt="erick-Bootstrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
-  <img align="center" alt="erick-git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
-        <img align="center" alt="erick-Angular" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+ <tr>
+     <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"width="40" height="40" alt="Angular" />
+      <br>Angular
+    </td>
+<td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
+      <br>jQuery
+    </td>
+<td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg"width="40" height="40" alt="jQuery" />
+      <br>C++
+    </td>
+ </tr>
+</table>
+<br><br>
 </div>
 
-
-### Studying in this moment:
-<div style="display: inline_block">
-  <img align="center" alt="erick-Angular" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
-  <img align="center" alt="erick-Typescript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-  <img align="right" alt="Erick-pic" height="200" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5622AQHrcycZMzuNvA/feedshare-shrink_800/0/1659110621340?e=1663200000&v=beta&t=fijgipR2d2yZIJYqLwvaRZSgT4JIi804KagMLejD14k">
+<p align="center"> 
+ Studying in this moment
+</p>
+<br><br>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+<td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+<br>Java
+</td>
+<td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="tailwind" />
+      <br>React Native
+    </td>
+ <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"width="40" height="40" alt="Angular" />
+      <br>Angular
+    </td>
+  </tr>
+</table>
+<br><br>
 </div>
  
 ### Erick Leonardo on social media:
