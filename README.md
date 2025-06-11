@@ -15,8 +15,7 @@ function dev(name, age, work) {
 <div class="container">
 <div align="center">
   <a href="https://github.com/Erickleoo">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=erickleoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickleoo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickleoo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br><br>
 <p align="center"> 
